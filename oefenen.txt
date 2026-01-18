@@ -1,2 +1,5 @@
 Hello World 
 Mijn Naam is Daphne 
+Ik ben 35 jaar oud
+Ik hou van Pokemon
+Ik heb 2 katten
